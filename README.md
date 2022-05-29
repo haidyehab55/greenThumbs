@@ -7,7 +7,7 @@ When the app runs for the first time our permission will be requested for the ap
 
 The home page will have three buttons, two of which will display different kinds of notifications. The third “Cancel” button will cancel any scheduled notifications we create. 
 
-<h1> Plant Food Notification </h1>
+## Plant Food Notification 
 
 ## Water Notification
 The second button will create a scheduled notification reminding the user to water their plant weekly. When you tap on the button, it will bring up a dialog to pick the day of the week and then a time picker. This allows you to select when you want the notification to be displayed. At the scheduled time a notification with a title, a body, an emoji and an action button will appear. This notification will also produce a custom sound on both platforms and will be non-dismissible on Android.
